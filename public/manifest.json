@@ -1,0 +1,12 @@
+{
+  "name": "Map Levels",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "action": {
+    "title": "Map Levels",
+    "icon": "/icon.svg",
+    "popover": "/",
+    "width": 380,
+    "height": 560
+  }
+}
