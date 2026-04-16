@@ -4,9 +4,9 @@
   "manifest_version": 1,
   "action": {
     "title": "Map Levels",
-    "icon": "https://Maokhay-Washi.github.io/owlbear-map-levels/icon.svg",
-    "popover": "https://Maokhay-Washi.github.io/owlbear-map-levels/",
-    "width": 360,
-    "height": 500
+    "icon": "/icon.svg",
+    "popover": "/",
+    "width": 380,
+    "height": 560
   }
 }
