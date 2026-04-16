@@ -67,13 +67,13 @@ base: '/owlbear-map-levels/'
 7. Your site URL will be:
 
 ```text
-https://YOUR-USERNAME.github.io/owlbear-map-levels/
+https://Maokhay-Washi.github.io/owlbear-map-levels/
 ```
 
 8. Install this manifest URL in Owlbear Rodeo:
 
 ```text
-https://YOUR-USERNAME.github.io/owlbear-map-levels/manifest.json
+https://Maokhay-Washi.github.io/owlbear-map-levels/manifest.json
 ```
 
 ## Manual production build
