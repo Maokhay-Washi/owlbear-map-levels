@@ -4,9 +4,9 @@
   "manifest_version": 1,
   "action": {
     "title": "Map Levels",
-    "icon": "/icon.svg",
-    "popover": "/",
-    "width": 380,
-    "height": 560
+    "icon": "./icon.svg",
+    "popover": "./",
+    "width": 360,
+    "height": 500
   }
 }
